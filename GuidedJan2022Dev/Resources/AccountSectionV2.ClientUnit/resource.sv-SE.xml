@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AccountsChangedMessage.Value" Value="Ändrade konton: {0} av {1}" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Visa dubblett '{0}'" />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Uppdatera med sociala nätverk-data" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.SetPriceListActionCaption.Value" Value="Ställ in prislista" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Följ inlägg" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Sluta följa inlägg" />
+		</Items>
+	</Group>
+</Resources>

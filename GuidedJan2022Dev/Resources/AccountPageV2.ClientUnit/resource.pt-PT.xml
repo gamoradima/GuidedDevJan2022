@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования контрагента " />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Conclusão do perfil" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Porcentagem de conclusão do perfil. Clique no indicador para ver quais dados são necessários para concluir o perfil." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Perfil concluído" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="New data found ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Show new data for account profile enrichment" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Enrich data" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Search new data for account enrichment" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Pelo menos um perfil de rede social deve ser especificada para a conta para executar esta ação." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Atualizar com os dados de redes sociais" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Pelo menos um perfil de rede social deve ser especificada para a conta para executar esta ação" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Direitos insuficientes para executar esta ação. Entre em contacto com o administrador de sistema." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Seguir o feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Está a seguir o feed: {0} {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Parar de seguir o feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Parou de seguir o feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

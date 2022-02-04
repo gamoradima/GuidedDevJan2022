@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AccountsChangedMessage.Value" Value="Accounts geändert: {0} von {1}" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Show duplicate '{0}'" />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Mit Daten der sozialen Netzwerke aktualisieren" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.SetPriceListActionCaption.Value" Value="Preisliste einrichten" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Dem Feed folgen" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Feed nicht mehr folgen" />
+		</Items>
+	</Group>
+</Resources>

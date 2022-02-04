@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования контрагента " />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="BerikadStandardIkon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="BerikadStandardIkon" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Profilfärdigställande" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Hur komplett profilen är i procent. Klicka på indikatorn för att visa vilka data du behöver för att göra profilen komplett." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil komplett" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Ny data funnen ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Visa ny data för konto profil-berikning" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Berika data" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Sök ny data för kontoberikning" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Flöde" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Minst en socialt nätverk-profil måste anges för kontot får att man ska kunna köra denna åtgärd." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Uppdatera med sociala nätverk-data" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Minst en socialt nätverk-profil måste anges för kontot får att man ska kunna köra denna åtgärd" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Otillräckliga rättigheter att utföra denna åtgärd. Kontakta din systemadministratör." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Följ inlägg" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Du följer nu inlägg: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Sluta följa inlägg" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Du har slutat följa inlägg: {0}" />
+		</Items>
+	</Group>
+</Resources>

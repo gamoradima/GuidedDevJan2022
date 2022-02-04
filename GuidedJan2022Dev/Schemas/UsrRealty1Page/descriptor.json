@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "60ff6182-b0c4-42f7-8f0f-6f50ceb750fc",
+    "Name": "UsrRealty1Page",
+    "ModifiedOnUtc": "\/Date(1643293983000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Недвижимость\""
+  }
+}

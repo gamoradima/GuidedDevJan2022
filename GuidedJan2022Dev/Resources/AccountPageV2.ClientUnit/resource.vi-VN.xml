@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования контрагента " />
+			<Item Name="Images.a4b11c18-9e35-4bfe-ba14-6a62a3d8b1f1.Caption" Value="EnrichmentDefaultIcon" />
+			<Item Name="Images.cd6fb42c-38cc-49a3-8395-f28de0d676b2.Caption" Value="EnrichedDefaultIcon" />
+			<Item Name="LocalizableStrings.CompletenessCaption.Value" Value="Sự hoàn tất hồ sơ" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Phần trăm mức hoàn thành hồ sơ. Click vào dấu chỉ dẫn để xem dữ liệu nào mà bạn cần để hoàn thành hồ sơ." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Hoàn thành hồ sơ" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonCaption.Value" Value="Dữ liệu mới đã tìm thấy ({0})" />
+			<Item Name="LocalizableStrings.EnrichedDefaultButtonHint.Value" Value="Hiển thị dữ liệu mới để làm giàu hồ sơ tài khoản" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonCaption.Value" Value="Làm giàu dữ liệu" />
+			<Item Name="LocalizableStrings.EnrichmentDefaultButtonHint.Value" Value="Tìm kiếm dữ liệu mới để làm giàu tài khoản" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Tin tức" />
+			<Item Name="LocalizableStrings.FillAccountQuestion.Value" Value="Ít nhất phải có một hồ sơ mạng xã hội được chỉ định cho tài khoản nhằm để thi hành hành động này." />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Cập nhật với dữ liệu mạng xã hội" />
+			<Item Name="LocalizableStrings.OpenAccountCardQuestion.Value" Value="Ít nhất phải có một hồ sơ mạng xã hội được chỉ định cho tài khoản nhằm để thi hành hành động này" />
+			<Item Name="LocalizableStrings.RightsErrorMessage.Value" Value="Không đủ quyền để thực thi hành động này. Hãy liên hệ nhà quản trị hệ thống." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Bạn hiện đang theo dõi tin tức: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Bỏ theo dõi tin tức" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Bạn vừa dừng theo dõi tin tức: {0}" />
+		</Items>
+	</Group>
+</Resources>

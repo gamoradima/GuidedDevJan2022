@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "52ad6e3c-d9f4-4549-8e89-a5b6e97587e9",
+    "Name": "UsrTestCSharpProcess",
+    "ModifiedOnUtc": "\/Date(1643208840000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Тестовый процесс с C# кодом"
+  }
+}

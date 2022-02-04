@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AccountsChangedMessage.Value" Value="حسابهای اصلاح شده: {0} از {1}" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Show duplicate '{0}'" />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="بروز رسانی با اطلاعات شبکه های اجتماعی" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.SetPriceListActionCaption.Value" Value="تنظیم لیست قیمت" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="دنبال کردن فید" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="لغو دنبال کردن فید" />
+		</Items>
+	</Group>
+</Resources>

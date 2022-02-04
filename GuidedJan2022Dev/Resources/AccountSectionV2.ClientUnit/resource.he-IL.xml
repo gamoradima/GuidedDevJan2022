@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AccountsChangedMessage.Value" Value="חברות שהשתנו: {0} מתוך {1}" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="הצג כפילות '{0}'" />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="עדכן מנתוני רשת חברתית" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="הדו&quot;ח יופק עבור כל הרשומות במודול, בלי פילטרים. האם אתה מעוניין להמשיך?" />
+			<Item Name="LocalizableStrings.SetPriceListActionCaption.Value" Value="הגדר מחירון" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="עקוב אחר לוח ההודעות" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="בטל מעקב אחר לוח ההודועות" />
+		</Items>
+	</Group>
+</Resources>

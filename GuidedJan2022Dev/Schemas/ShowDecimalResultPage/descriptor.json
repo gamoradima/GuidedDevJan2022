@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8744e0ca-9daf-4ad8-8ce2-5712b564cb47",
+    "Name": "ShowDecimalResultPage",
+    "ModifiedOnUtc": "\/Date(1643207274000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Результат расчетов:"
+  }
+}

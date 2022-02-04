@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "bf01b828-b1e1-4d3a-b7a0-65becea6f6ec",
+    "Name": "UsrRealtyTag",
+    "ModifiedOnUtc": "\/Date(1642688409000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Недвижимость"
+  }
+}

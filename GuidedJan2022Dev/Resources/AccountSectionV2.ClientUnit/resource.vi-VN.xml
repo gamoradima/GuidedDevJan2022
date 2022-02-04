@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AccountsChangedMessage.Value" Value="Các tổ chức đã được chỉnh sửa: {0} trong số {1}" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Hiển thị trùng lặp '{0}'" />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="Cập nhật với dữ liệu mạng xã hội" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Báo cáo sẽ được tạo cho tất cả các bản ghi trong phần, không có bộ lọc. Bạn có muốn tiếp tục?" />
+			<Item Name="LocalizableStrings.SetPriceListActionCaption.Value" Value="Thiết lập danh sách giá cả" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Bỏ theo dõi tin tức" />
+		</Items>
+	</Group>
+</Resources>

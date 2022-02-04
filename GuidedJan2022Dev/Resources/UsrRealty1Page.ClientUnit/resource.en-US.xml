@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Недвижимость&quot;" />
+			<Item Name="LocalizableStrings.AvgResultMessage.Value" Value="Среднее значение = " />
+			<Item Name="LocalizableStrings.CalcButtonCaption.Value" Value="Расчет Большой" />
+			<Item Name="LocalizableStrings.CommissionCaption.Value" Value="Commission, USD" />
+			<Item Name="LocalizableStrings.RecordsCountMessage.Value" Value="записей" />
+			<Item Name="LocalizableStrings.Schema43095ac6Detaila2618709DetailCaptionOnPage.Value" Value="Просмотр недвижимости" />
+			<Item Name="LocalizableStrings.Tab027f7ef5TabLabelTabCaption.Value" Value="Просмотры" />
+			<Item Name="LocalizableStrings.UsrAreaM208854cc3cad24182a5ef85a3ec960069Tip.Value" Value="Подсказка: в большом доме дороже отопление.&#xA;Многострочный текст, кажется, тут работает." />
+			<Item Name="LocalizableStrings.ValueMustBePositive.Value" Value="Value must be greater than zero" />
+		</Items>
+	</Group>
+</Resources>
