@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "05a89881-6f8f-28ea-73ea-cc79cf4f94f6",
+    "Name": "SimplePack",
+    "ModifiedOnUtc": "\/Date(1643639420000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

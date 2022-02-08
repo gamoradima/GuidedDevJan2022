@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e23a8170-b3f3-4dd9-82ed-a380f9ec148a",
+    "Name": "UsrCurrencyRateCBRService",
+    "ModifiedOnUtc": "\/Date(1644329163000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "https://www.cbr-xml-daily.ru",
+    "DependsOn": []
+  }
+}

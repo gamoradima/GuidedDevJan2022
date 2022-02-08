@@ -1,0 +1,7 @@
+﻿{
+  "Properties": {
+    "BaseUri": "https://www.cbr-xml-daily.ru",
+    "CreatedInVersion": "7.18.5.1500",
+    "Type": "Rest"
+  }
+}

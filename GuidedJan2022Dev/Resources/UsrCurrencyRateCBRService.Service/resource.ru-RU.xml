@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="https://www.cbr-xml-daily.ru" />
+			<Item Name="ServiceMethods.Method1.Caption" Value="/daily_json.js" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.Date.Caption" Value="Date" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.Value.Caption" Value="Valute USD Value" />
+		</Items>
+	</Group>
+</Resources>
